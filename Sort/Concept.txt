@@ -1,0 +1,13 @@
+Sorting types
+    1. Ascending
+    2. Descending
+    3. Lexigographical - 1,10,11,12,2,20,21 a,ab,abc,b,bc
+
+Sorting algo
+    1. Bubble Sort - O(n**2)
+        Comparing i & i+1 and swapping the min number to left
+    2. Selection Sort - O(n**2)
+        Collecting the index of min number and then swapping it starting index
+    3. Insertion Sort
+    4. Merge Sort / Divide & conquer algo - O(n logn)
+        Dividing array elements into single element (using the mid/binary search concept) array and merging back 
