@@ -11,3 +11,7 @@ Sorting algo
     3. Insertion Sort
     4. Merge Sort / Divide & conquer algo - O(n logn)
         Dividing array elements into single element (using the mid/binary search concept) array and merging back 
+    5. Quick sort
+        Steps:
+        - Rearrange elements
+        - quick sort

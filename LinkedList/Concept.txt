@@ -1,0 +1,17 @@
+It is a data structure in which next next elements are linked to each other
+Like next elements index is mapped with first element and so on
+
+[Data | Next] -> [Data | Next] -> [Data | Next] -> NULL
+10 -> 20 -> 30 -> NULL
+
+Singly linked list
+A -> B -> C -> NULL
+
+Doubly linked list
+NULL <- A <-> B <-> C -> NULL
+
+
+Circular linked list
+A -> B -> C --
+^              |
+|--------------|
